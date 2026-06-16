@@ -80,7 +80,7 @@ jobs:
 
             echo "🚀 Deploying..."
 
-            cd /home/ubuntu/ecommerce-app
+            cd /home/ec2-user/ecommerce-app
 
             git fetch origin main
             git reset --hard origin/main
