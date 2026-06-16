@@ -18,7 +18,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className='footer-section'>
-          <h3>ABOUT US</h3>
+          <h3>Test</h3>
           <ul>
             <li><Link to="#">Our story</Link></li>
             <li><Link to="#">Our team</Link></li>
